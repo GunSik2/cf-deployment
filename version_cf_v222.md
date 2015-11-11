@@ -32,3 +32,4 @@ resource_pools:
   - https://bosh.io/releases/github.com/cloudfoundry-incubator/bosh-openstack-cpi-release?version=16
   - https://bosh.io/docs/init-openstack.html
   - http://docs.cloudfoundry.org/deploying/openstack/
+  - https://docs.cloudfoundry.org/deploying/openstack/validate_openstack.html#cloud-image
