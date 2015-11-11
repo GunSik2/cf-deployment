@@ -30,4 +30,5 @@ resource_pools:
   - https://bosh.cloudfoundry.org/releases/github.com/cloudfoundry/cf-release?version=222
   - https://github.com/cloudfoundry-incubator/diego-cf-compatibility/blob/master/compatibility-v1.csv
   - https://bosh.io/releases/github.com/cloudfoundry-incubator/bosh-openstack-cpi-release?version=16
+  - https://bosh.io/docs/init-openstack.html
   - http://docs.cloudfoundry.org/deploying/openstack/
