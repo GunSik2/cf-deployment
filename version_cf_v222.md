@@ -2,7 +2,7 @@
 * BOSH Stemcell Version(s): [bosh-aws-xen-kvm-ubuntu-trusty-go_agent/3104](http://boshartifacts.cloudfoundry.org/file_collections?type=stemcells)
 * diego: v0.1437.0   (bosh direcotr: 1.2859.0)
 * Garden-linux:  v0.308.0 
-* Etcd final release 16
+* Etcd final release [16](http://bosh.io/releases/github.com/cloudfoundry-incubator/etcd-release?version=16)
 
 * bosh-init config
 ```
