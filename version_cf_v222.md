@@ -4,13 +4,6 @@
 * Garden-linux:  v0.308.0 
 * Etcd final release 16
 
-
-* Reference
-  - https://bosh.cloudfoundry.org/releases/github.com/cloudfoundry/cf-release?version=222
-  - https://github.com/cloudfoundry-incubator/diego-cf-compatibility/blob/master/compatibility-v1.csv
-  - https://bosh.io/releases/github.com/cloudfoundry-incubator/bosh-openstack-cpi-release?version=16
-
-
 * bosh-init config
 ```
 releases:
@@ -31,3 +24,10 @@ resource_pools:
     instance_type: $INSTANCE_TYPE    # <-- Replace / Added
 
 ```
+
+
+* Reference
+  - https://bosh.cloudfoundry.org/releases/github.com/cloudfoundry/cf-release?version=222
+  - https://github.com/cloudfoundry-incubator/diego-cf-compatibility/blob/master/compatibility-v1.csv
+  - https://bosh.io/releases/github.com/cloudfoundry-incubator/bosh-openstack-cpi-release?version=16
+  - http://docs.cloudfoundry.org/deploying/openstack/
